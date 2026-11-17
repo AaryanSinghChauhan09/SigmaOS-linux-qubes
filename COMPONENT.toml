@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-qubes"
-description = "Qubes OS Xen hypervisor appVM compartmentalization"
+description = "SigmaOS component: SigmaOS-linux-qubes"
 version = "0.1.0"
 tier = 2
 
